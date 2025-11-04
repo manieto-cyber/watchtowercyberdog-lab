@@ -1,3 +1,35 @@
+# 🛡️ WatchTowerCyberDog Labs  
+**Mauricio Nieto | Blue-Team Research & SOC Lab**
+
+Welcome to my cybersecurity research & SOC analyst home lab repository.
+
+Focus Areas:
+- SIEM, SOC monitoring, & Sysmon logging
+- Threat intelligence & attack vector research
+- Vulnerability management & remediation
+- MITRE ATT&CK mapping & detection engineering
+- IR playbooks & security automation
+
+## 🧠 Key Pillars
+| Pillar | Focus |
+|---|---|
+Detection | Wazuh, Splunk, Sigma, Sysmon |
+Threat Intel | Emerging attack vectors, APTs, CVEs |
+Vulnerability Research | OpenVAS, remediation, baselines |
+IR | Incident reports, logs, timelines |
+Automation | Scripts for defense & monitoring |
+
+## 🔧 Tools
+Sysmon • Wazuh • Splunk • OpenVAS • MITRE ATT&CK  
+KQL • Suricata • Wireshark • PowerShell • Python
+
+## 🐕 Mission
+> “Sniffing out threats before they bite.”
+
+If you're learning blue-team too — let's connect.
+
+
+
 # 📁 watchtowercyberdog-labs
 # ┣━━ 📁 SOC-Lab
 # │      ┣━━ 📁 Wazuh
